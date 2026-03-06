@@ -2,4 +2,4 @@
 import streamlit as st
 
 with st.chat_message("assistant"):
-    st.write("Hello 👋")
+    st.write("Hello, How is it going?")

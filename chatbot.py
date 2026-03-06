@@ -9,7 +9,7 @@ def response_generator():
         [
             "Hello there! How can I assist you today?",
             "Hi, human! Is there anything I can help you with?",
-            "Do you need help?", "Sorry, I don't have answer to your question? , "I do not complete homeworks for you",
+            "Do you need help?", "Sorry, I don't have answer to your question?" , "I do not complete homeworks for you",
         ]
     )
     for word in response.split():
